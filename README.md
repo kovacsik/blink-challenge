@@ -1,6 +1,6 @@
-# Blink Code Challenge
+# Star Wars API dashboard
 
-> Blink Code Challenge
+> Star Wars API dashboard
 
 ## Description
 
@@ -21,4 +21,4 @@ $ npm run dev
 
 ## URL
 Check out the live dashboard here:
-http://blink-challenge.s3-website-us-east-1.amazonaws.com/
+http://kovacsik-swapi-dashboard.s3-website-us-east-1.amazonaws.com/

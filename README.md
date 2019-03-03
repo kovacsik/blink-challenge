@@ -4,7 +4,7 @@
 
 ## Description
 
-Dashboard to display Star Wars Characters using the swapi.co API
+Dashboard to display Star Wars Characters using the swapi.co API.  This was built in 8 hours as a challenge.
 
 ## Usage
 
